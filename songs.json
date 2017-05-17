@@ -1,19 +1,4 @@
 {
- "cranes": {
-   "songUrl": "https://yayinternet.github.io/hw4-music/songs/solange-cranes-kaytranada.mp3",
-   "title": "Cranes in the Sky [KAYTRANADA Remix]",
-   "artist": "Solange"
- },
- "timeless": {
-   "songUrl": "https://yayinternet.github.io/hw4-music/songs/james-blake-timeless.mp3",
-   "title": "Timeless",
-   "artist": "James Blake"
- },
- "knock": {
-   "songUrl": "https://yayinternet.github.io/hw4-music/songs/knockknock.mp4",
-   "title": "Twice",
-   "artist": "Knock Knock"
- },
  "deep": {
    "songUrl": "https://sgoddijn.github.io/seb-songs/songs/James%20Hersey%20-%20Coming%20Over%20(Filous%20Remix).mp3",
    "title": "Coming Over",
