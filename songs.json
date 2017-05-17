@@ -1,0 +1,32 @@
+{
+ "cranes": {
+   "songUrl": "https://yayinternet.github.io/hw4-music/songs/solange-cranes-kaytranada.mp3",
+   "title": "Cranes in the Sky [KAYTRANADA Remix]",
+   "artist": "Solange"
+ },
+ "timeless": {
+   "songUrl": "https://yayinternet.github.io/hw4-music/songs/james-blake-timeless.mp3",
+   "title": "Timeless",
+   "artist": "James Blake"
+ },
+ "knock": {
+   "songUrl": "https://yayinternet.github.io/hw4-music/songs/knockknock.mp4",
+   "title": "Twice",
+   "artist": "Knock Knock"
+ },
+ "deep": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/James%20Hersey%20-%20Coming%20Over%20(Filous%20Remix).mp3",
+   "title": "Coming Over",
+   "artist": "James Hersey"
+ },
+ "discretion": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Lost%20Frequencies%20-%20Are%20You%20With%20Me%20(Official%20Music%20Video).mp3",
+   "title": "Are you with me?",
+   "artist": "Lost Frequencies"
+ },
+ "spear": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Gorgon%20City%20-%20Here%20For%20You%20(Bearcubs%20Remix).mp3",
+   "title": "Here For You",
+   "artist": "Gorgon City"
+ }
+}
