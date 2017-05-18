@@ -13,5 +13,30 @@
    "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Gorgon%20City%20-%20Here%20For%20You%20(Bearcubs%20Remix).mp3",
    "title": "Here For You",
    "artist": "Gorgon City"
+ },
+ "one": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/NOEP%20-%20Move%20[Official%20Music%20Video].mp3",
+   "title": "Move",
+   "artist": "NOEP"
+ },
+ "two": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Autograf%20-%20Dream%20(Original%20Mix).mp3",
+   "title": "Dream",
+   "artist": "Autograf"
+ },
+ "three": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Ben%20Pearce%20-%20What%20I%20Might%20Do.mp3",
+   "title": "What I Might Do",
+   "artist": "Ben Pearce"
+ },
+ "four": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/PETIT%20BISCUIT%20-%20Memories.mp3",
+   "title": "Memories",
+   "artist": "Petit Biscuit"
+ },
+ "five": {
+   "songUrl": "https://sgoddijn.github.io/seb-songs/songs/Vance%20Joy%20-%20Riptide%20(Flic%20Flac%20Edit).mp3",
+   "title": "Riptide",
+   "artist": "Vance Joy"
  }
 }
